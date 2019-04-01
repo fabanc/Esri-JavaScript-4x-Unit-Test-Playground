@@ -21,8 +21,9 @@
     "noEmitOnError": false,
     "noUnusedLocals": true,
     "importHelpers": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "types": ["arcgis-js-api", "intern"]
   },
-  "types": ["arcgis-js-api", "moment"],
+  "types": ["arcgis-js-api", "moment", "intern"],
   "include": ["ts/**/*"]
 }

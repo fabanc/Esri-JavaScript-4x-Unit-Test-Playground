@@ -1,0 +1,31 @@
+{
+  "name": "esri-javascript-4x-unit-test-playground",
+  "version": "1.0.0",
+  "description": "A package to demonstrate widget unit testing for esri javascript 4 and intern 4",
+  "main": "index.js",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.10.0",
+    "intern": "^4.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabanc/Esri-JavaScript-4x-Unit-Test-Playground.git"
+  },
+  "keywords": [
+    "Esri",
+    "JavaScript",
+    "4"
+  ],
+  "author": "Fabien Ancelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabanc/Esri-JavaScript-4x-Unit-Test-Playground/issues"
+  },
+  "homepage": "https://github.com/fabanc/Esri-JavaScript-4x-Unit-Test-Playground#readme"
+}
